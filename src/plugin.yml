@@ -1,0 +1,40 @@
+main: fr.hortis.Core
+name: coreCore
+version: 1.0
+author: Hortis
+depend: [  ]
+commands:
+  build:
+  fly:
+  clearchat:
+    aliases: [ cc ]
+  discord:
+    aliases: [ ds ]
+  feed:
+  heal:
+  head:
+  ping:
+    aliases: [ ms ]
+  pvp:
+  help:
+  lag:
+    aliases: [ tps, info ]
+  gamemode:
+    aliases: [ gm ]
+    permission: core.gm
+    permission-message: Commande inconnue.
+  clear:
+    permission: core.mod
+    permission-message: Commande inconnue.
+  rank:
+    permission: core.admin
+    permission-message: Commande inconnue.
+  tp:
+    permission: core.mod
+    permission-message: Commande inconnue.
+  tpall:
+    permission: core.mod
+  check:
+    description: Permet de vérifier si un joueur possède un double compte.
+  coins:
+  corecoins:
