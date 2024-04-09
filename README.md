@@ -1,2 +1,2 @@
 # core-utils
-need an api to use certain classes (ICommand, IUserManager ...)
+need an api to use classes (ICommand, IUserManager ...)
