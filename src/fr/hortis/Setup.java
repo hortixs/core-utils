@@ -17,9 +17,6 @@ public class Setup {
     final JavaPlugin plugin;
     final VersaAPI api;
 
-    public RInventory inventory;
-
-
     public Setup(JavaPlugin plugin, VersaAPI api) {
         this.plugin = plugin;
         this.api = api;
