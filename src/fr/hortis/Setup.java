@@ -7,8 +7,6 @@ import fr.hortis.commands.rank.CRank;
 import fr.hortis.listeners.EJoin;
 import fr.hortis.listeners.EMention;
 import fr.hortis.listeners.EWeather;
-import io.rqndomhax.commands.*;
-import io.rqndomhax.utils.inventory.RInventory;
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 
